@@ -103,7 +103,7 @@
 							"containerExtending": false,
 							"left": 184,
 							"top": 184,
-							"width": 106,
+							"width": 119,
 							"height": 49,
 							"autoResize": false,
 							"text": "SoulServer",
@@ -675,7 +675,7 @@
 							"containerExtending": false,
 							"left": 816,
 							"top": 384,
-							"width": 79,
+							"width": 88,
 							"height": 32,
 							"autoResize": false,
 							"text": "Randomiser",
@@ -701,7 +701,7 @@
 							"width": 72,
 							"height": 32,
 							"autoResize": false,
-							"text": "Scoring",
+							"text": "AI 'scoring'",
 							"wordWrap": true
 						},
 						{
@@ -787,7 +787,7 @@
 							"left": 696,
 							"top": 576,
 							"width": 121,
-							"height": 25,
+							"height": 38,
 							"autoResize": false,
 							"text": "Peer Random API",
 							"wordWrap": true
@@ -810,7 +810,7 @@
 							"left": 888,
 							"top": 578,
 							"width": 121,
-							"height": 25,
+							"height": 38,
 							"autoResize": false,
 							"text": "Peer Random API",
 							"wordWrap": true
@@ -945,7 +945,7 @@
 							"width": 121,
 							"height": 25,
 							"autoResize": false,
-							"text": "MNM Priority",
+							"text": "AI consensus",
 							"wordWrap": true
 						},
 						{
